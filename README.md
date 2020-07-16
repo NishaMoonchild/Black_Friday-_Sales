@@ -1,1 +1,1 @@
-# Black_Friday-_Sales
+# Black_Friday_Sales prediction
